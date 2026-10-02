@@ -1,0 +1,6 @@
+{
+  "name": "나만의 맛집 다이어리 - 구글 시트 연동",
+  "description": "구글 스프레드시트를 백엔드로 활용하여 식당 정보, 대표 메뉴, 카테고리, 별점(1~5점), 후기, 추천 여부를 실시간 저장하고 관리하는 감성 맛집 다이어리",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
